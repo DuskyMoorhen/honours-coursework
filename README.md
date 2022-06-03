@@ -1,6 +1,6 @@
 # Honours Coursework
 
-This repository was created as part of the course "Data Analysis in Earth Sciences", taken at Monash University and taught by Andrew Gunn.
+This repository was created as part of the course "Data Analysis in Earth Sciences", taken at Monash University and taught by Andrew Gunn (see: [https://github.com/geomorphlab/medaes](https://geomorphlab.github.io/medaes/)).
 
 ## Description
 
